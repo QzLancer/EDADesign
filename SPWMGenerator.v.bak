@@ -1,0 +1,3 @@
+module SPWMGenerator(CLK, RST, PWM, PHA, PLA);
+
+endmodule

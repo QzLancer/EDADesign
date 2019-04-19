@@ -1,0 +1,3 @@
+module SPWM_3Phase(CLK, RST, SW[4:0], CCW, PHA, PLA ,PHB, PLB, PHC, PLC);
+
+endmodule

@@ -1,0 +1,3 @@
+module sintest(clk, rst, q);
+
+endmodule

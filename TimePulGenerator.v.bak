@@ -1,0 +1,3 @@
+module TimePulGenerator(CLK, RST, SW, CP, Sublevel);
+
+endmodule
